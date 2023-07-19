@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 <br>
 <p>I am an IT student situated in Mostar, 🇧🇦. <br>
     Primarly versed in Python & Java. <br>
+    Familiar with Unity Game Engine, Blender and Ultimaker Cura. <br>
+    Recreationally created Arduino projects, visuals in Adobe Photoshop and Sony Vegas and basic websites in HTML<br>
+    Well-versed in English and Bosnian, conversational in German and recently started learning Italian. <br>
+    
 Most recently, I have took interest in Flutter's versatility and will be creating my first repository-worthy projects in it!</p>
 <hr
 <i>Any suggestions, reccomendations or inquiries are greatly appreciated!</i>
