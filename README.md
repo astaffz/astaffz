@@ -1,4 +1,4 @@
-### Hi there 👋
+### ⚡ Aid Mustafić
 
 <!--
 **astaffz/astaffz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3>Welcome to my GitHub!</h3>
+<br>
+<p>I am an IT student situated in Mostar, 🇧🇦. <br>
+    Primarly versed in Python & Java. <br>
+Most recently, I have took an interest in Flutter's versatility and will be creating my first repository-worthy projects in it!</p>
+<hr
+<i>Any suggestions, reccomendations or inquiries are greatly appreciated!</i>
+
+💬 >> <b><a href="www.instagram.com/@aidmustaficc" target="blank"> @aidmustaficc</a> on Instagram</b>
