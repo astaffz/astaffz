@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br>
 <p>I am an IT student situated in Mostar, 🇧🇦. <br>
     Primarly versed in Python & Java. <br>
-Most recently, I have took an interest in Flutter's versatility and will be creating my first repository-worthy projects in it!</p>
+Most recently, I have took interest in Flutter's versatility and will be creating my first repository-worthy projects in it!</p>
 <hr
 <i>Any suggestions, reccomendations or inquiries are greatly appreciated!</i>
 
