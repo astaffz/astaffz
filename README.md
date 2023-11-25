@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 <h3>Welcome to my GitHub!</h3>
 <br>
 <p>I am an IT student situated in Mostar, 🇧🇦. <br>
-    Primarly versed in Python & Java. <br>
-    Familiar with Unity Game Engine, Blender and Ultimaker Cura. <br>
-    Recreationally created Arduino projects, visuals in Adobe Photoshop and Sony Vegas and basic websites in HTML<br>
-    Well-versed in English and Bosnian, conversational in German and recently started learning Italian. <br>
+    Primarily versed in Python & Java. <br>
+    Familiar with Unity Game Engine, Blender, and Ultimaker Cura. <br>
+    Recreationally created Arduino projects, visuals in Adobe Photoshop and Sony Vegas, and basic websites in HTML<br>
+    Well-versed in English and Bosnian, conversational in German <br>
     
-Most recently, I have took interest in Flutter's versatility and will be creating my first repository-worthy projects in it!</p>
-<hr
-<i>Any suggestions, reccomendations or inquiries are greatly appreciated!</i>
+Most recently, I have taken an interest in Flutter's versatility and will be creating my first repository-worthy projects in it!</p>
+<hr>
+<i>Any suggestions, recommendations, or inquiries are greatly appreciated!</i>
 
-💬 >> <b><a href="www.instagram.com/@aidmustaficc" target="blank"> @aidmustaficc</a> on Instagram</b>
+💬 >> <b><a href="www.instagram.com/@aidmustaficc" target="blank"> @aidmustaficc</a> on Instagram</b><br>
