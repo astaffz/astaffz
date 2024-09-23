@@ -16,13 +16,12 @@ Here are some ideas to get you started:
 -->
 <h3>Welcome to my GitHub!</h3>
 <br>
-<p>I am an IT student situated in Mostar, 🇧🇦. <br>
-    Primarily versed in Python & Java. <br>
+<p>I am a Computer Science student situated in 🇧🇦. <br>
+    Primarily versed in Flutter & C++ <br>
     Familiar with Unity Game Engine, Blender, and Ultimaker Cura. <br>
     Recreationally created Arduino projects, visuals in Adobe Photoshop and Sony Vegas, and basic websites in HTML<br>
     Well-versed in English and Bosnian, conversational in German <br>
     
-Most recently, I have taken an interest in Flutter's versatility and will be creating my first repository-worthy projects in it!</p>
 <hr>
 <i>Any suggestions, recommendations, or inquiries are greatly appreciated!</i>
 
