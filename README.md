@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 <h3>Welcome to my GitHub!</h3>
 <br>
 <p>I am a Computer Science student situated in 🇧🇦. <br>
-    Primarily versed in Flutter, C & C++ <br>
+    Stack includes: C++, ASP.NET, Java & Flutter <br>
     Familiar with Unity, 3D modeling and printing using Blender, etc. <br>
-    Recreationally created Arduino projects, visuals in Photoshop and Vegas, and basic websites in HTML, CSS/SCSS <br>
     Well-versed in English and Bosnian, conversational in German <br>
     
 <hr>
